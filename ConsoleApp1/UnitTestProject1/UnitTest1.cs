@@ -14,6 +14,7 @@ namespace UnitTestProject1
 
             Assert.Equal(res, 5 + 5); 
         }
+
         [Fact]
         public void TestMethod2()
         {
