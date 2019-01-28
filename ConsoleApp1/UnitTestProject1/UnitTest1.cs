@@ -4,7 +4,7 @@ using Xunit;
 namespace UnitTestProject1
 {
     public class UnitTest1
-    {
+    {//
         [Fact]
         public void TestMethod1()
         {
@@ -14,6 +14,7 @@ namespace UnitTestProject1
 
             Assert.Equal(res, 5 + 5); 
         }
+
         [Fact]
         public void TestMethod2()
         {
